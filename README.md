@@ -16,4 +16,6 @@ After executing the cmds, go to the folder "dist" and execute the file "ChatGPT 
 # How to use
 
 After executing just open the app like a normal app on windows and that's it :D
-<img src="img/logo.png">
+
+
+<img src="img/icon.png">
