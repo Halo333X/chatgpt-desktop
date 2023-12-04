@@ -1,0 +1,14 @@
+appId: com.chatgpt-desktop.halo333
+productName: ChatGPT Desktop
+directories:
+  output: dist
+
+win:
+  target: nsis
+  icon: ./img/icon.png
+
+mac:
+  target: dmg
+
+linux:
+  target: deb
