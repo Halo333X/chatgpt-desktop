@@ -1,0 +1,14 @@
+* {
+    background-color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+body {
+    height: 100vh; /* Asegura que el cuerpo ocupa el 100% de la altura visible */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
